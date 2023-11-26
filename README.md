@@ -140,7 +140,7 @@
           <div id="fs_store">
             <div>
               <div>
-                <header>焼肉はひとくちめ だるまアンケート</header>
+                <header>粉もんスタンドおしんアンケート</header>
                 <div class="content calendar-content">
                   <div id="question_title" class="text-center">アンケートのご協力をお願いいたします</div>
                   <p class="font_size_xs text-center">(所要時間1分)</p>
